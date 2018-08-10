@@ -17,10 +17,9 @@ Isometric view of the carousel
 
 ## Objective
 ```
-Design and construct a mechincal system using
-[LabVIEW](www.ni.com/en-us/shop/labview.html).
-```
-
+Design and construct a mechincal system using 
+``` 
+[LabVIEW](www.ni.com/en-us/shop/labview.html)
 
 ## Key highlights
 
